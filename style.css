@@ -1,0 +1,23 @@
+body {
+    background-color: teal;
+    font-family: 'Roboto', sans-serif; /* Define a fonte da página como Roboto */
+    margin: 0; /* Remove a margem padrão do corpo */
+     padding: 10px; /* Remove o padding padrão do corpo */
+}
+
+main {
+    background-color: lightgray;
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+
+footer {
+     margin-top: 35px;
+     margin: auto; 
+    background-color: aliceblue; 
+    font-size: 12px; 
+    width:500px;
+}
